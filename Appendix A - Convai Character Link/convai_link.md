@@ -1,3 +1,3 @@
 ## 🔗 Convai Character Link
 
-[Click here to view my Convai character](https://x.convai.com/?xpid=42674796-456f-4304-8074-23923e4de343&type=unlisted)
+[Click here to view my Convai character](https://x.convai.com/?xpid=fa252b8c-0655-4b7f-9e78-e545dca1fbdb&type=unlisted)
