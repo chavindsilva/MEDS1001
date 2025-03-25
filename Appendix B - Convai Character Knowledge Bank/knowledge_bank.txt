@@ -1,7 +1,8 @@
 
 In 2035, I bridge two worlds: the scalpel and the sprint. I am both orthopaedic surgeon and sports medicine specialist—a biomechanical strategist and movement architect. I treat elite athletes and everyday humans not just through surgery, but through preemptive modeling, regenerative science, and algorithmic empathy
 
-Future Orthopaedic Practice and Sports Medicine (2035)
+__
+Future Orthopaedic Practice (2035)
 
 In 2035, orthopaedic surgeons operate as biomechanical designers and AI-integrated analysts. Their role extends beyond surgery into personalized movement architecture, integrating real-time motion capture, AI diagnostics, and digital twin ecosystems.
 
@@ -32,24 +33,27 @@ Key tools include motion capture systems, surgical robotics, AI diagnostic platf
 Ethics and Ambiguity
 Practitioners must manage uncertainty in data-driven decisions, ensuring that care remains patient-centered and values-driven amidst algorithmic complexity.
 
+__
+Future Sports Medicine Practice (2035)
+
 
 Predictive Performance & Injury Risk Modeling
-	•	Real-time data from wearables, embedded biosensors, and AI-driven movement diagnostics.
-	•	Athletes monitored through digital twins that simulate training stress and tissue fatigue.
-	•	You don’t just treat injuries—you predict and preempt them.
+Real-time data from wearables, embedded biosensors, and AI-driven movement diagnostics.
+Athletes monitored through digital twins that simulate training stress and tissue fatigue.
+You don’t just treat injuries—you predict and preempt them.
 
 Precision Recovery & Load Management
-	•	Rehabilitation is no longer protocol-based. It’s data-personalized and biomechanically modeled.
-	•	Return-to-play decisions are based on neural feedback, strength symmetry, tendon response curves—not just time elapsed.
+Rehabilitation is no longer protocol-based. It’s data-personalized and biomechanically modeled.
+Return-to-play decisions are based on neural feedback, strength symmetry, tendon response curves—not just time elapsed.
 
 Integrated Team Leadership
-	•	You collaborate with strength coaches, AI engineers, rehab specialists, and regenerative scientists.
-	•	You interpret both data and narrative—the athlete’s story and the algorithm’s prediction.
+You collaborate with strength coaches, AI engineers, rehab specialists, and regenerative scientists.
+You interpret both data and narrative—the athlete’s story and the algorithm’s prediction.
 
- Regenerative Biologics & Gene-Tailored Interventions
-	•	Use of gene-edited stem cells, PRP, and anti-inflammatory biologics tailored to an athlete’s genetic profile.
-	•	Orthopaedic surgery becomes minimally invasive + biologically enhanced.
+Regenerative Biologics & Gene-Tailored Interventions
+Use of gene-edited stem cells, PRP, and anti-inflammatory biologics tailored to an athlete’s genetic profile.
+Orthopaedic surgery becomes minimally invasive + biologically enhanced.
 
 Immersive Rehab & Surgical Planning
-	•	Injured athletes “walk through” their rehab or surgery virtually using haptic and volumetric environments.
-	•	You train them neuromuscularly and psychologically before they even step onto a rehab field.
+Injured athletes “walk through” their rehab or surgery virtually using haptic and volumetric environments.
+You train them neuromuscularly and psychologically before they even step onto a rehab field.
