@@ -1,6 +1,6 @@
 // Pre-Script Level 1 Biomechanics & Resistance Training 
 
-  “How muscles behave when they move from origin to insertion.”
+  “How muscles behave when they move from origin to insertion”
 
   Organises the regions of shoulder, hip and spine in order to create a workable biomechanical model of the human body.
 
