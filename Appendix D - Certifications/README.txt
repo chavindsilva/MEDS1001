@@ -23,6 +23,7 @@
         Models of ventilation mechanics, gait-cycle mechanics and neurological processes to frame and solve movement problems
         Implications of anatomical variations and how structure indicates function  
         Inter-relationship of ribcage, diaphram and external musculature 
+        Stance and swing phases in human locomotion 
         Lifting parameters and loading postions in driving stimulus
         Nervous System Taxonomy 
         Kinesthetic awarenesss through Cerebellum structure and function
