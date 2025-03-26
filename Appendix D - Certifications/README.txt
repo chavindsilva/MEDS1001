@@ -19,7 +19,7 @@
 
     Builds on PSL1 model of shoulder, hip and spine by layering movement systems guided by ribcage, pelvis and nervous system. 
     
-    Explores:
+      Explores:
         Models of ventilation mechanics, gait-cycle mechanics and neurological processes to frame and solve movement problems
         Implications of anatomical variations and how structure indicates function  
         Inter-relationship of ribcage, diaphram and external musculature 
