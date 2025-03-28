@@ -30,10 +30,10 @@ and the enabling role of technology within the evolving fields of sports medicin
 
     Visually synthesising a volumetric model from Figure 1 and Figure 2.
       Depicting acquisition as a function of f(required skills - current skills) by linking endpoints to form a membrane; technical skills x-axis, soft skills y-axis
-      Overlayed with the intersecting fields and technological impact f(SportsMed n Ortho) = max(Modality) by linear curve of heights; y-axis 
+      Overlayed with the intersecting fields and technological impact f(SportsMed n Ortho) = max(Modality) by linear curve of heights; z-axis 
       A volumetric shape was generated to underscore tensions in aquiring new skills for industry, challenged by advacements in technology. 
 
-      Conceptual Model 
+    Conceptual Model 
         highlights; intergration of technical skills in these fields with technology; blending of green and red moving from 2025 to 2035
                     importance of developing and integrating new types of soft skills in the future; overlapping high modal dark blue towards 2035  
                                 
@@ -44,4 +44,4 @@ _______________
 
 # References
 
-  Abernethy, A, Adams, L, Barrett, M, Bechtel, C, Brennan, P, Butte, A, Faulkner, J, Fontaine, E, Friedhoff, S, Halamka, J, Howell, M, Johnson, K, Long, P, McGraw, D, Miller, R, Lee, P,    Perlin, J, Rucker, D, Sandy, L, Savage, L, Stump, L, Tang, P, Topol, E & Tuckson, R 2022, ‘The promise of digital health: then, now, and the future’, NAM Perspectives, vol. 2022,         viewed 28 March 2025, https://doi.org/10.31478/202206e
+  Abernethy, A, Adams, L, Barrett, M, Bechtel, C, Brennan, P, Butte, A, Faulkner, J, Fontaine, E, Friedhoff, S, Halamka, J, Howell, M, Johnson, K, Long, P, McGraw, D, Miller, R, Lee,    P,    Perlin, J, Rucker, D, Sandy, L, Savage, L, Stump, L, Tang, P, Topol, E & Tuckson, R 2022, ‘The promise of digital health: then, now, and the future’, NAM Perspectives, vol.      2022,         viewed 28 March 2025, https://doi.org/10.31478/202206e
